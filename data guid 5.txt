@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"he gaming industry has witnessed tremendous advancements in technology over the years, bringing more immersive and realistic experiences to players worldwide. ","photo":"https://iili.io/HUnI7P1.jpg"},
+  {"title":"advice mod 2","desc":"One significant breakthrough has been the integration of artificial intelligence (AI) into games, allowing for intelligent and dynamic gameplay.","photo":"https://iili.io/HUnIlSa.jpg"},
+  {"title":"helper pack 3","desc":" Among the pioneers in this field, Garry S 2 has emerged as a prominent AI-driven game, revolutionizing the gaming landscape.","photo":"https://iili.io/HUnIMtp.png"},
+  {"title":"advance mod 4","desc":"In this article, we will explore the features, impact, and potential of Garry S 2, showcasing how it has unleashed the power of AI in gaming.","photo":"https://iili.io/HUnIaKF.jpg"},
+  {"title":"tips pack 5","desc":"Garry S 2 is the highly anticipated sequel to the original sandbox game, Garry S 1, developed by Garry Newman. Building upon the success of its predecessor, Garry S 2 takes AI-driven gaming to new heights. ","photo":"https://iili.io/HUnIccg.jpg"},
+  {"title":"advice mod 6","desc":"The game provides players with a vast open-world environment and unprecedented freedom to create, explore, and interact within it.","photo":"https://iili.io/HUnIEAv.jpg"},
+  {"title":"how to use this app 7","desc":"At the core of Garry S 2's innovation lies its robust AI integration. The game incorporates advanced machine learning algorithms, natural language processing, computer vision, and behavioral modeling to create intelligent and lifelike virtual environments. ","photo":"https://iili.io/HUnI1HJ.jpg"},
+  {"title":"tips pack 8","desc":"These AI systems enhance the gameplay experience by enabling non-player characters (NPCs) to exhibit realistic behaviors, adapt to changing circumstances, and engage in dynamic interactions with players.","photo":"https://iili.io/HUnIGNR.jpg"}
    ]
  
 }
